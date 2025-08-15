@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b136a2-530b-4d86-b658-41c1262ee6e4" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="2025_summer_TodoLost_Project" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ymNm3ItmMeZlj9nM2fyQwXdEN8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.2025_summer_TodoLost_Project 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.summer_2025_project 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.summer_2025_projectApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bjy82/IdeaProjects/summer_2025_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/bjy82/IdeaProjects/summer_2025_project/summer_2025_project/src/main/java/me/choejonggeon/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.choejonggeon.project.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bjy82\IdeaProjects\2025_summer_TodoLost_Project\src\main\resources\templates\layout" />
+      <recent name="C:\Users\bjy82\IdeaProjects\2025_summer_TodoLost_Project\src\main\resources\templates" />
+      <recent name="C:\Users\bjy82\IdeaProjects\2025_summer_TodoLost_Project\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.summer_2025_projectApplication">
+    <configuration name="summer_2025_projectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="2025_summer_TodoLost_Project.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.choejonggeon.project.summer_2025_projectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d0b136a2-530b-4d86-b658-41c1262ee6e4" name="변경" comment="" />
+      <created>1750435948248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750435948248</updated>
+      <workItem from="1750435949272" duration="105000" />
+      <workItem from="1750436065548" duration="289000" />
+      <workItem from="1750436384487" duration="2000" />
+      <workItem from="1750436392073" duration="145000" />
+      <workItem from="1750436547678" duration="524000" />
+      <workItem from="1750437153444" duration="49000" />
+      <workItem from="1750437215999" duration="38000" />
+      <workItem from="1750517697587" duration="102000" />
+      <workItem from="1752763263451" duration="374000" />
+      <workItem from="1752763684666" duration="47000" />
+      <workItem from="1752763934673" duration="779000" />
+      <workItem from="1752829945761" duration="300000" />
+      <workItem from="1752830359406" duration="922000" />
+      <workItem from="1752842656523" duration="2459000" />
+      <workItem from="1752845221929" duration="1194000" />
+      <workItem from="1752908476157" duration="1289000" />
+      <workItem from="1752909793386" duration="2592000" />
+      <workItem from="1752917434610" duration="3400000" />
+      <workItem from="1752993105207" duration="378000" />
+      <workItem from="1752996174765" duration="404000" />
+      <workItem from="1752996594495" duration="734000" />
+      <workItem from="1752997872132" duration="833000" />
+      <workItem from="1753022695588" duration="304000" />
+      <workItem from="1753104389282" duration="3317000" />
+      <workItem from="1753107730636" duration="852000" />
+      <workItem from="1753170328635" duration="716000" />
+      <workItem from="1753186549581" duration="2003000" />
+      <workItem from="1753193772635" duration="3466000" />
+      <workItem from="1753247256762" duration="2398000" />
+      <workItem from="1753254087524" duration="4740000" />
+      <workItem from="1753272698729" duration="2619000" />
+      <workItem from="1753433061566" duration="1160000" />
+      <workItem from="1753440451111" duration="671000" />
+      <workItem from="1753449542759" duration="1033000" />
+      <workItem from="1753450816933" duration="1274000" />
+      <workItem from="1753503805370" duration="3314000" />
+      <workItem from="1753513402296" duration="3078000" />
+      <workItem from="1753529343793" duration="7000" />
+      <workItem from="1753530226100" duration="4781000" />
+      <workItem from="1753591375802" duration="1680000" />
+      <workItem from="1753593462313" duration="1050000" />
+      <workItem from="1753604229825" duration="3105000" />
+      <workItem from="1753610379736" duration="1029000" />
+      <workItem from="1753619872080" duration="2031000" />
+      <workItem from="1753692702094" duration="3865000" />
+      <workItem from="1753713794080" duration="2038000" />
+      <workItem from="1753793610243" duration="5027000" />
+      <workItem from="1753863375156" duration="2626000" />
+      <workItem from="1753880151534" duration="1844000" />
+      <workItem from="1754563885805" duration="3000" />
+      <workItem from="1755068254526" duration="903000" />
+      <workItem from="1755069291669" duration="1131000" />
+      <workItem from="1755180741210" duration="3458000" />
+      <workItem from="1755221650492" duration="3583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/choejonggeon/project/Entity/To_do.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

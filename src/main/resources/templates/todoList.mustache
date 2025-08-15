@@ -1,0 +1,64 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>todoList</title>
+    <style>
+        .todo-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+        }
+
+        .todo-details {
+            flex-grow: 1;
+        }
+
+        .button-group {
+            display: flex;
+            flex-direction: row;
+            gap: 5px;
+        }
+    </style>
+</head>
+<body>
+<div class="todo-content">
+    <h4 class="mb-4">📌할 일 목록</h4>
+    <button class="create-button" style="background: cornflowerblue"
+    onclick="location.href = '/new-articles'">추가</button>
+    <div class="list-group">
+        {{#todoList}}
+            <div class="todo-item">
+
+                <div class="todo-details">
+                    <strong>제목: {{title}}</strong><br>
+                    <input type = "hidden" class="todo-id" value="{{id}}">
+                    <small class="text-muted">할 일: {{content}}</small><br>
+                    <small class="text-muted">시작 시간: {{startTime}}</small><br>
+                    <small class="text-muted">종료 시간: {{endTime}}</small><br>
+                    <small class="text-muted">범주: {{category}}</small><br>
+                    <small class="text-muted">완료 여부: {{isSuccessed}}</small><br>
+                    <small class="text-muted">우선순위: {{priority}}</small>
+
+                    <!-- 버튼 그룹을 왼쪽 아래로 -->
+                    <div class="button-group" style="margin-top: 10px;">
+                        <button class="check-success" style="background: cornflowerblue">완료!</button>
+                        <button class="update-button" style="background: cornflowerblue"
+                        onclick="location.href='/update-todo?id={{id}}'">수정</button>
+                        <button class="delete-button" style="background: cornflowerblue">삭제</button>
+                    </div>
+                </div>
+
+            </div>
+        {{/todoList}}
+
+        {{^todoList}}
+            <p class="text-muted">할 일이 없습니다.</p>
+        {{/todoList}}
+    </div>
+</div>
+<script src="./To_doList.js"></script>
+</body>
+</html>
